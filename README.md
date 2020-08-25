@@ -1,11 +1,11 @@
 # Nasa-Engine
 Nasa Engine Data for prognostics challenge competition at the International Conference on Prognostics and Health Management (PHM08)
 
-Os dados estão contidos nos arquivos: train.txt & test.txt
+The data is contained in the files: train.txt & test.txt
 
-As diretrizes da competição estão no arquivo: Challenge Data Description
+The competition guidelines are on file: Challenge Data Description
 
-Bibliotecas e outros: 
+Libraries and others: 
 
 jupyterlab-launcher (0.10.2);
 scikit-learn (0.19.1);
